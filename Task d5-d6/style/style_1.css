@@ -1,0 +1,30 @@
+p.float-to-left {
+    float: left;
+}
+
+p.inline {
+    display: inline;
+    margin: auto;
+    padding: 10px;
+}
+
+p {
+    margin: auto;
+    padding: 10px;
+}
+
+h1 {
+    clear: both;
+    margin: auto;
+    padding: 10px;
+}
+
+h2 {
+    margin: auto;
+    padding: 10px;
+}
+
+h3 {
+    margin: auto;
+    padding: 10px;
+}

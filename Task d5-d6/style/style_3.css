@@ -1,0 +1,51 @@
+p.float-to-left {
+    float: left;
+}
+
+p.inline {
+    display: inline;
+    margin: 10px;
+}
+
+p.f2left {
+    margin: 0px;
+    margin-left: 10px;
+}
+
+
+h1 {
+    color: honeydew;
+    background-color:gray;
+    border: 1px solid black;
+    margin: 0px;
+    
+}
+
+div.center-content {
+    height: 100px;
+    line-height: 100px;
+    border: 1px solid black;
+}
+
+div.norm-content {
+    height: 100px;
+    border: 1px solid black;
+}
+
+h2 {
+    width: 100px;
+    margin: 0px;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+    background-color: lightgray;
+    clear: both;
+    border: 1px solid black;
+    float: left;
+}
+
+h3 {
+    font-size: 15px;
+    margin: 0px;
+    margin-left: 10px;
+}
